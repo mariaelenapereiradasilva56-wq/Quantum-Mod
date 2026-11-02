@@ -1,6 +1,6 @@
-# Quantum Mod
+#  Protico Quantum Mod
 
-Um mod para Geometry Dash criado por Maria Elena.
+Um mod para Geometry Dash criado por KonamiGD
 
 ## Versão
 1.0.0
@@ -14,5 +14,5 @@ Um mod para Geometry Dash criado por Maria Elena.
 - Otimização
 - Interface personalizada
 
-## Desenvolvedora
-Maria Elena
+## Desenvolvedor 
+KonamiGD
