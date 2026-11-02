@@ -1,0 +1,12 @@
+{
+  "geode": "$GEODE_VERSION",
+  "gd": {
+    "android": "2.2081",
+    "win": "2.2081"
+  },
+  "id": "mariaelenapereiradasilva56.quantummod",
+  "name": "Quantum Mod",
+  "version": "v1.0.0",
+  "developer": "KonamiGD",
+  "description": "A new dimension of Geometry Dash modding."
+}
